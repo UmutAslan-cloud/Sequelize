@@ -1,0 +1,9 @@
+{
+  "development": {
+    "host": "164.90.168.84",
+      "database": "school_dev",
+      "username": "school_user",
+      "password": "school_2021!",
+    "dialect": "mysql"
+  }
+}
